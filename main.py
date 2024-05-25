@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print_hi('Привет! Это мой новый проект, в котором я буду использовать git и pycharm одновременно!')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
